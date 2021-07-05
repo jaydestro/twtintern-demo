@@ -9,7 +9,7 @@ This demo provides you with a static hugo blog to demonstrate how GitHub Actions
 
 * [Hugo](https://gohugo.io/getting-started/installing/)
 * [GitHub](https://github.com/)
-* CLI - Your local computer or [Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/developer/terraform/get-started-cloud-shell?WT.mc_id=devto-blog-jagord)
+* CLI - Your local computer or [Azure Cloud Shell](https://docs.microsoft.com/azure/developer/terraform/get-started-cloud-shell?WT.mc_id=devops-0000-jagord)
 * Azure Account - [$200 Free Credit](https://cda.ms/1zH)
 
 ---
